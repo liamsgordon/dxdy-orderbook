@@ -6,13 +6,17 @@ This repo creates an order book for ethereum prices on the dxdy exchange. In add
 
 ### Updates Bids
 
+![Alt text](https://github.com/liamsgordon/dxdy-orderbook/blob/main/imgs/Screenshot%202023-09-09%20at%206.32.31%20PM.png)
 
 
 ### Updated Asks
 
-
+![Alt text](https://github.com/liamsgordon/dxdy-orderbook/blob/main/imgs/Screenshot%202023-09-09%20at%206.32.17%20PM.png)
 
 ### Spread
+
+![Alt text](https://github.com/liamsgordon/dxdy-orderbook/blob/main/imgs/Screenshot%202023-09-09%20at%206.31.54%20PM.png)
+
 
 
 ## How to Use This Project
